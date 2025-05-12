@@ -14,22 +14,6 @@ Set up a CI/CD pipeline using GitHub Actions to automate testing, Docker image b
 * GitHub Actions
 * DockerHub
 
----
-
- 📁 Project Structure
-
-my-node-app/
-├── index.js
-├── package.json
-├── Dockerfile
-├── .dockerignore
-├── .github/
-│   └── workflows/
-│       └── main.yml
-└── README.md
-
----
-
  ⚙️ How It Works
 
 This CI/CD pipeline:
@@ -46,8 +30,8 @@ This CI/CD pipeline:
 
 1. Clone this repo:
 
-   git clone [https://github.com/arjumandshafi/arjumandshafi.git\\](https://github.com/arjumandshafi/your-repo-name.git\)
-   cd your-repo-name
+   git clone https://github.com/arjumandshafi/devop-task1
+   cd devop-task1
 
 2. Install dependencies:
 
